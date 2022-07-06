@@ -4,7 +4,7 @@ chardet==3.0.4
 decorator==4.4.2
 free-proxy==1.0.1
 idna==2.9
-lxml==4.5.0
+lxml==4.9.1
 requests==2.23.0
 six==1.14.0
 soupsieve==2.0
